@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProductManager</string>
+    <string name="username_hint">请输入电子邮箱</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="login_submit">确认登录</string>
+    <string name="contract_title">项目合同</string>
+    <string name="start_end_date">合同起止日期</string>
+</resources>
